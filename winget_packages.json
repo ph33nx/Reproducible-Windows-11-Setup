@@ -1,0 +1,32 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+    "CreationDate": "2024-12-11T00:00:00Z",
+    "Sources": [
+        {
+            "SourceDetails": {
+                "Name": "winget",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Argument": "https://cdn.winget.microsoft.com/cache",
+                "Type": "Microsoft.PreIndexed.Package"
+            },
+            "Packages": [
+                { "PackageIdentifier": "Microsoft.DotNet.SDK.8" },
+                { "PackageIdentifier": "Docker.DockerDesktop" },
+                { "PackageIdentifier": "Gyan.FFmpeg" },
+                { "PackageIdentifier": "OpenJS.NodeJS.LTS" },
+                { "PackageIdentifier": "Python.Python.3.12" },
+                { "PackageIdentifier": "Microsoft.VisualStudioCode" },
+                { "PackageIdentifier": "qBittorrent.qBittorrent" },
+                { "PackageIdentifier": "TheDocumentFoundation.LibreOffice" },
+                { "PackageIdentifier": "VideoLAN.VLC" },
+                { "PackageIdentifier": "Google.PlatformTools" },
+                { "PackageIdentifier": "9NW33J738BL0" },
+                { "PackageIdentifier": "RiotGames.Valorant.AP" },
+                { "PackageIdentifier": "Git.Git" },
+                { "PackageIdentifier": "GitHub.GitLFS" },
+                { "PackageIdentifier": "Github.GithubDesktop" }
+            ]
+        }
+    ],
+    "WinGetVersion": "1.6.2771"
+}
