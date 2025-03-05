@@ -36,8 +36,6 @@ This repository provides configuration files to make your Windows 11 setup as re
    winget import winget_packages.json
    ```
 
-````
-
 Winget will then automatically install each of the packages specified in the JSON file.
 
 ## Customization
@@ -59,4 +57,3 @@ Winget will then automatically install each of the packages specified in the JSO
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
-````
